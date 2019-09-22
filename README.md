@@ -1,2 +1,2 @@
 # linktoGithub
-linktogithub
+https://github.com/juansbencoding/reactnativeconfusion
